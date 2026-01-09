@@ -63,7 +63,7 @@ The dashboard provides season-wise insights such as champions, runner-ups, team 
             
         •Aggregated season-wise and player-wise statistics
 
-    4.Dashboard Development
+4. Dashboard Development
 
         •Designed KPIs, cards, tables, and charts
     
