@@ -28,6 +28,7 @@ The dashboard provides season-wise insights such as champions, runner-ups, team 
 🔄 Data Analytics Workflow
 1. Data Collection
 •Collected IPL match & player datasets covering seasons 2008–2025
+
 2. Data Cleaning & Preprocessing
 •Removed duplicates and irrelevant columns
 •Handled missing and inconsistent values
