@@ -73,13 +73,13 @@ The dashboard provides season-wise insights such as champions, runner-ups, team 
 
 📌 Insights Generated
 
-•Identified top-performing teams across seasons
-
-•Analyzed batting and bowling dominance year-wise
-
-•Compared team consistency using points table data
-
-•Highlighted standout player performances
+        •Identified top-performing teams across seasons
+        
+        •Analyzed batting and bowling dominance year-wise
+        
+        •Compared team consistency using points table data
+        
+        •Highlighted standout player performances
 
 🎯 Project Objective
 
