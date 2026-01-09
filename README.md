@@ -47,29 +47,29 @@ The dashboard provides season-wise insights such as champions, runner-ups, team 
 
 1. Data Collection
 
-•Collected IPL match & player datasets covering seasons 2008–2025
-
+        •Collected IPL match & player datasets covering seasons 2008–2025
+   
 2. Data Cleaning & Preprocessing
 
-•Removed duplicates and irrelevant columns
-
-•Handled missing and inconsistent values
-
-•Standardized team and player names
-
+        •Removed duplicates and irrelevant columns
+    
+        •Handled missing and inconsistent values
+    
+        •Standardized team and player names
+   
 3. Data Transformation
 
-•Created calculated columns and measures
-
-•Aggregated season-wise and player-wise statistics
+        •Created calculated columns and measures
+            
+        •Aggregated season-wise and player-wise statistics
 
 4.Dashboard Development
 
-•Designed KPIs, cards, tables, and charts
+    •Designed KPIs, cards, tables, and charts
 
-•Implemented slicers for season-based analysis
+    •Implemented slicers for season-based analysis
 
-•Applied clean UI/UX principles
+    •Applied clean UI/UX principles
 
 📌 Insights Generated
 
