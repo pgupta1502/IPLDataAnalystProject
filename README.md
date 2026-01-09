@@ -5,7 +5,9 @@ The dashboard provides season-wise insights such as champions, runner-ups, team 
 
 🚀 Key Features
 •📅 Season-wise Analysis (2008–2025) using interactive slicers
+
 •🏆 Champion & Runner-up Overview for selected seasons
+
 •📈 Match Statistics
     •Total Matches
     •Total Teams
